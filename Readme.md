@@ -8,8 +8,7 @@ Este repositorio contiene ejercicios prácticos para reforzar los conceptos ense
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
-   cd nombre-del-repositorio
+   git clone  https://github.com/ProfOmarPinzon/Analitica.git
    ```
 
 2. **Instalar dependencias:**
@@ -21,18 +20,17 @@ Este repositorio contiene ejercicios prácticos para reforzar los conceptos ense
 
 3. **Estructura del repositorio:**
 
-   - 📂 `notebooks/` → Contiene los cuadernos Jupyter con los ejercicios.
-   - 📂 `datasets/` → Incluye los datos necesarios para los ejercicios.
-   - 📂 `scripts/` → Código auxiliar para procesamiento de datos o visualización.
+   - 📂 `Clase/` → Contiene el material y los cuadernos Jupyter con los ejercicios de clase.
+   - 📂 `Lab/` → Contiene los cuadernos de Jupyter con las guias de laboratorio.
    - 📄 `requirements.txt` → Lista de dependencias necesarias.
 
 4. **Ejecutar los ejercicios:**
-   Abre un cuaderno Jupyter con:
+   Abre un cuaderno con VSCode o Jupyter con:
 
    ```bash
    jupyter notebook
    ```
-
+   
 ## Contribuciones
 
 Si deseas mejorar los ejercicios o agregar nuevas actividades, ¡las contribuciones son bienvenidas! Haz un *fork*, realiza tus cambios y envía un *pull request*.
